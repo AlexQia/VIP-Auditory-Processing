@@ -1,0 +1,22 @@
+# LabVIEW project-specific files to ignore
+*.aliases
+*.lvlps
+*.lvbitx
+*.lvuse
+*.lvclass
+*.xnode
+*.cache
+*.tmp
+
+# Build and output directories
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.zip
+
+# Other temporary or user-specific files
+*.bak
+*.log
+Thumbs.db
