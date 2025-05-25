@@ -52,6 +52,10 @@ To develop and refine a multi-phase behavioral task using LabVIEW for investigat
 **Fig. 3** |  The LED flashes for 2 seconds when the mouse licks the incorrect spout during the waiting state in Phase 5
 <br>
 
+## Instructions
+ Fork the entire repository to your own GitHub account and clone it to your local machine. The main VI files should be used in numerical order, as this sequence is designed to gradually train the mice to understand the task. After each test session, run the Python analysis script VIP_Raster_plots_free_water_trials_indicated_v2.py to evaluate mouse performance
+<br>
+
 ## Behavioral Analysis
 
 The goal of this training is to have mice lick the waterspout based only on the location where the sound comes from regardless of the different types of tone. At beginning of the test, we would turn on the free water mechanism for a while depending on how individual mouse performed, letting the mice know when they should lick the waterspout and which waterspout they should lick. 
