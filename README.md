@@ -70,7 +70,7 @@ In Fig. 5, Mouse 1 was trained for 26 days. Based on the raster plot, Mouse 1 wa
 **Fig. 5** | Performance of Mouse 1 on April 25 during Phase 3, after 26 days of training.
 <br><br>
 
-In Fig. 6, Mouse 2 was trained for 21 days. Compared to Mouse 1, Mouse 2 was still not familiar with the goal of the test. The cluster of dots on the left side is slightly less dense compared to the other side, when the left speaker played a tone.The same phenomenon was also found for right speaker. Those green dots found on the left column of both first row and third row mean Mouse 2 were not willing to lick the left waterspout when the left speaker played sound. Thus, the free water mechanism was turned on to encourage it to lick.  
+In Fig. 6, Mouse 2 was trained for 21 days. Compared to Mouse 1, Mouse 2 was still not familiar with the goal of the test. The cluster of dots on the left side is slightly less dense compared to the other side when the left speaker played a tone. The same phenomenon was also observed for the right speaker. The green dots found in the left column of both the first and third rows indicate that Mouse 2 was not willing to lick the left waterspout when the left speaker played a sound. Thus, the free water mechanism was turned on to encourage it to lick.  
 <br>
 ![Behavioral Analysis](04212025-104008-VIP_2.png)
 **Fig. 6** | Performance of Mouse 2 on April 21 during Phase 3, after 22 days of training. Green dots indicate licks triggered by the free water
