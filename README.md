@@ -53,7 +53,7 @@ To develop and refine a multi-phase behavioral task using LabVIEW for investigat
 <br>
 
 ## Instructions
- Fork the entire repository to your own GitHub account and clone it to your local machine. The main VI files should be used in numerical order, as this sequence is designed to gradually train the mice to understand the task. After each test session, run the Python analysis script VIP_Raster_plots_free_water_trials_indicated_v2.py to evaluate mouse performance
+ Fork the entire repository to your own GitHub account and clone it to your local machine. The main VI files should be used in numerical order, as this sequence is designed to gradually train the mice to understand the task. After each test session, run the Python analysis script `VIP_Raster_plots_free_water_trials_indicated_v2.py` to evaluate mouse performance
 <br>
 
 ## Behavioral Analysis
