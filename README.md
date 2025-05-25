@@ -32,9 +32,9 @@ To develop and refine a multi-phase behavioral task using LabVIEW for investigat
 <br>
 
 ## Main VI files
-`VIP_Phase 1` : introducing two waterspouts without auditory cues to habituate mice to the experimental apparatus. Each waterspout is independent and in the 'waitiing' state all the time. When the waterspout is licked by the mouse, its state will switch to the 9s inter-trial interval (ITI) immediately. No water will be given during this time til the state swtiches back to 'waiting'. 
+`VIP_Phase 1` : Introducing two waterspouts without auditory cues to habituate mice to the experimental apparatus. Each waterspout operates independently and remains in the waiting state at all times. When a waterspout is licked by the mouse, its state switches immediately to a 9-second inter-trial interval (ITI). No water is given during this time until the state switches back to waiting 
 
-`VIP_Phase 2` : LabVIEW program (Phase 2) with two speakers plays Target 1 or 2 for 3 seconds. After the 3s 'sound' state, the mouse will have 1.75s 'waiting' state to make a decision of which waterspout to lick. Mouse is rewarded with water for correctly selecting the target spout following auditory stimulus offset.
+`VIP_Phase 2` : LabVIEW program (Phase 2) with two speakers plays Target 1 or 2 for 3 seconds. After the 3s 'sound' state, the mouse will have 1.75s waiting state to make a decision of which waterspout to lick. Mouse is rewarded with water for correctly selecting the target spout following auditory stimulus offset.
 <br><br>
 ![Main VI files](Phase_2.png)
 **Fig. 1** | Single-trial diagram. Each trial consists of three states: a 3-second sound state, a 1.75-second waiting state, and an inter-trial interval
