@@ -9,12 +9,13 @@ To develop and refine a multi-phase behavioral task using LabVIEW for investigat
 ## This project contains VI files for behavioral data acquisition in mice.
 
 ## Folder Structure
-- `src/` – Source code VIs
+
 <br> &nbsp;&nbsp; &nbsp;&nbsp; VIP_Phase_1.vi
 <br> &nbsp;&nbsp; &nbsp;&nbsp; VIP_Phase_2.vi
 <br> &nbsp;&nbsp; &nbsp;&nbsp; VIP_Phase_3.vi
 <br> &nbsp;&nbsp; &nbsp;&nbsp; VIP_Phase_4.vi
 <br> &nbsp;&nbsp; &nbsp;&nbsp; VIP_Phase_5.vi
+- `src/` – Source code VIs
   - `array/` – Array-related helper VIs
   <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; _array_shuffle.vi
 

@@ -8,6 +8,8 @@
 *.cache
 *.tmp
 
+# IDE-specific:
+.idea/
 # Build and output directories
 build/
 dist/
